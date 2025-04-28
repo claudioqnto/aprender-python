@@ -459,6 +459,10 @@ Esta seção apresenta bibliotecas Python úteis para automatizar tarefas repeti
       pip install watchdog
       ```
 
+## Autores
+
+- [@claudioqnto](https://github.com/claudioqnto)
+
 - **Paramiko**
     - **Descrição:** Uma biblioteca Python que fornece suporte para os protocolos SSHv2. Permite conectar-se a servidores remotos, executar comandos e transferir arquivos de forma segura, sendo essencial para automação de tarefas em servidores remotos.
     - **Instalação via pip:**
